@@ -138,7 +138,7 @@
       <dependency>
           <groupId>net.bull.javamelody</groupId>
           <artifactId>javamelody-core</artifactId>
-          <version>0.0.1</version>
+          <version>1.74.0</version>
           <scope>test</scope>
       </dependency>
     
