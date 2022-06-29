@@ -1,0 +1,9 @@
+{
+  "name": "a_vuln_test_package",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "clix-logger": "1.0.0"
+  }
+}
+
